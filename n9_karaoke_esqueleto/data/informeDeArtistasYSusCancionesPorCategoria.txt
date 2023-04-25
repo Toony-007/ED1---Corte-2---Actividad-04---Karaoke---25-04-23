@@ -1,0 +1,18 @@
+|------------------------------------------------------------
+|Informe de artistas y sus canciones dada la categoria: Pop
+|------------------------------------------------------------
+|Nombre del artista: Juanes
+|Categoria del artista: Pop
+|------------------------------------------------------------
+|Nombre de la cancion: A Dios le pido
+|Dificultad de la cancion: 6
+|Duracion de la cancion: 202
+|------------------------------------------------------------
+|Nombre de la cancion: La camisa negra
+|Dificultad de la cancion: 3
+|Duracion de la cancion: 209
+|------------------------------------------------------------
+|Nombre de la cancion: Nada valgo sin tu amor
+|Dificultad de la cancion: 4
+|Duracion de la cancion: 194
+|------------------------------------------------------------
